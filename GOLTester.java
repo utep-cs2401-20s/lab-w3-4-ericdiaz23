@@ -1,5 +1,5 @@
 /* Eric Diaz, 80647920
-/ Martine Ceberio Lab #3 */
+/ Martine Ceberio Lab #3 */// t
 import org.junit.jupiter.api.Test;
 
 public class GOLTester{

@@ -1,5 +1,5 @@
 /* Eric Diaz, 80647920
-/ Martine Ceberio Lab #3 */
+/ Martine Ceberio Lab #3 *///t
 
 public class TorusGameOfLife extends GameOfLife {
     // for each cell, count live neighbors deternube live/dead for new board start
